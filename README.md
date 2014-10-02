@@ -8,4 +8,6 @@ nice-repo
 - [Laravel Demo](/md/LaravelDemo.md)
 - [Laravel 相关](/md/LaravelMore.md)
 - [中文文档](/md/DocCn.md)
+- [其它](/md/More.md)
 
+fex-team/webuploader
