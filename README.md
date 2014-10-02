@@ -1,4 +1,7 @@
 nice-repo
 =========
 
-搜集优秀的开源项目
+- [jQuery 插件](/jQueryPlugin.md)
+- [Composer 资源包](/ComposerPackage.md)
+- [中文文档](/DocCn.md)
+
