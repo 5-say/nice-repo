@@ -4,4 +4,4 @@
 
  repo | description
  -----|-------------
- [jedfoster/Readmore.js](https://github.com/jedfoster/Readmore.js) | 
+ []() | 。
