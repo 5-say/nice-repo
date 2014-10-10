@@ -10,4 +10,5 @@ nice-repo
 - [中文文档](/md/DocCn.md)
 - [其它](/md/More.md)
 
-fex-team/webuploader
+next:
+weather-icons

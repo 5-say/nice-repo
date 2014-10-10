@@ -13,3 +13,6 @@
  [ecomfe/echarts](https://github.com/ecomfe/echarts) | 基于Canvas，纯Javascript图表库。
  [fex-team/webuploader](https://github.com/fex-team/webuploader) | 一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。在现代的浏览器里面能充分发挥HTML5的优势，同时又不摒弃主流IE浏览器，延用原来的FLASH运行时，兼容IE6+，Andorid 4+，IOS 6+。
  [yahoo/gifshot](https://github.com/yahoo/gifshot) | 创建流媒体，视频或图像的GIF动画。
+ [1000ch/lazyload-image](https://github.com/1000ch/lazyload-image) | 图片延迟加载。
+ [nnnick/Chart.js](https://github.com/nnnick/Chart.js) | HTML5 图表库。
+ []() | 
