@@ -86,7 +86,7 @@ input:focus {
     right:-5px;
 }
 #repos {
-    width: 960px;
+    width: 800px;
     margin: 0 auto;
 }
 #repos h1 {
@@ -98,4 +98,10 @@ input:focus {
 }
 #hacker-item {
     display: none;
+}
+table {
+    border: 1px solid #fff;
+}
+table:hover {
+    border: 1px solid #28a8e0;
 }

@@ -20,14 +20,21 @@
             <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
         </div>
     
-        <ul class="list">
-            <li id="hacker-item">
-                <button class="link-btn">GO</button>
-                <span class="link" style="display: none;"></span>
-                <strong class="name"></strong>
-                <p class="description"></p>
-            </li>
-        </ul>
+        <div class="list">
+            <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+                <tr>
+                    <td width="5" style="background: #5EC9F8;">&nbsp;</td>
+                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                        <strong class="name"></strong>
+                        <p class="description" style="color: #333;"></p>
+                    </td>
+                    <td class="link-btn" width="50" style="background: #28a8e0; color: #fff; text-align: center; cursor: pointer;">
+                        GO
+                        <span class="link" style="display: none;"></span>
+                    </td>
+                </tr>
+            </table>
+        </div>
     
     </div>
 
@@ -38,12 +45,13 @@
         new List('repos', {
             valueNames: [ 'name', 'description' ],
             item: 'hacker-item',
-            page: 50
+            page: 20
         }, repoList);
 
         $('.link-btn').on('click', function () {
-            var link = $(this).next().html();
-            console.log();
+            var link = $(this).find('.link').html();
+            console.log(link);
+            window.open(link);
         });
     </script>
 
