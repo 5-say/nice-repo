@@ -10,17 +10,22 @@
 </head>
 <body>
 
-    <h1>nice-repo</h1>
-
     <div id="repos">
-        <input class="search" placeholder="Search" />
-        <button class="sort" data-sort="name">按名称排序</button>
+
+        <h1>nice-repo</h1>
+
+        <div style="text-align: center;">
+            <input class="search" placeholder="Search" style="width: 500px;"/>
+            <br>
+            <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
+        </div>
     
         <ul class="list">
             <li id="hacker-item">
-                <h3 class="name"></h3>
+                <button class="link-btn">GO</button>
+                <span class="link" style="display: none;"></span>
+                <strong class="name"></strong>
                 <p class="description"></p>
-                <p class="link"></p>
             </li>
         </ul>
     
@@ -28,12 +33,18 @@
 
     <script src="assets/js/list.min.js"></script>
     <script src="assets/js/repo.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
     <script>
         new List('repos', {
             valueNames: [ 'name', 'description' ],
             item: 'hacker-item',
             page: 50
         }, repoList);
+
+        $('.link-btn').on('click', function () {
+            var link = $(this).next().html();
+            console.log();
+        });
     </script>
 
 </body>

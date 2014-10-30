@@ -85,6 +85,17 @@ input:focus {
     top:-10px;
     right:-5px;
 }
+#repos {
+    width: 960px;
+    margin: 0 auto;
+}
+#repos h1 {
+    width: 360px;
+    height: 83px;
+    background-image: url(../img/logo.png);
+    font-size: 0;
+    margin: 0 auto;
+}
 #hacker-item {
     display: none;
 }
