@@ -1,35 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset='utf-8'>
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css" media="screen">
 
-  <!--[if lt IE 9]>
-  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-  <title>Nice-repo by 5-say</title>
+    <title>Nice-repo by 5-say</title>
 </head>
-
 <body>
-  <header>
-    <div class="inner">
-      <h1>Nice-repo</h1>
-      <h2>搜集优秀的开源项目</h2>
-      <a href="https://github.com/5-say/nice-repo" class="button">
-        <small>View project on</small>
-        GitHub
-      </a>
-    </div>
-  </header>
 
-  <div id="content-wrapper">
-    <div class="inner clearfix">
-      <section id="main-content">
-      </aside>
+    <div id="repos">
+
+        <h1>nice-repo</h1>
+
+        <div style="text-align: center;">
+            <input class="search" placeholder="Search" style="width: 500px;"/>
+            <br>
+            <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
+        </div>
+    
+        <ul class="list">
+            <li id="hacker-item">
+                <button class="link-btn">GO</button>
+                <span class="link" style="display: none;"></span>
+                <strong class="name"></strong>
+                <p class="description"></p>
+            </li>
+        </ul>
+    
     </div>
-  </div>
+
+    <script src="assets/js/list.min.js"></script>
+    <script src="assets/js/repo.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script>
+        new List('repos', {
+            valueNames: [ 'name', 'description' ],
+            item: 'hacker-item',
+            page: 50
+        }, repoList);
+
+        $('.link-btn').on('click', function () {
+            var link = $(this).next().html();
+            console.log();
+        });
+    </script>
 
 </body>
 </html>
