@@ -3,7 +3,7 @@ var repoList =
     {
         name: '5-say/nice-repo',
         link: 'https://github.com/5-say/nice-repo',
-        description: '搜集优秀的开源项目。'
+        description: '搜集优秀的开源项目，提供便捷快速的搜索功能，让开源更美好。'
     },
     {
         name: 'greatfire/wiki',
@@ -189,10 +189,5 @@ var repoList =
         name: 'Maatwebsite/Laravel-Excel',
         link: 'https://github.com/Maatwebsite/Laravel-Excel',
         description: 'Laravel 资源包，读取和写入电子表格文件。基于 <a target="_bland" href="https://github.com/PHPOffice/PHPExcel">PHPOffice/PHPExcel</a>。'
-    },
-    {
-        name: '',
-        link: '',
-        description: ''
     }
 ];
