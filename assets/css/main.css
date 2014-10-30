@@ -105,3 +105,7 @@ table {
 table:hover {
     border: 1px solid #28a8e0;
 }
+a {
+    color: green;
+    text-decoration: none;
+}
