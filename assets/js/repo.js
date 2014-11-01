@@ -271,9 +271,74 @@ var repoList =
         description: 'jQuery 数据表格插件。'
     },
     {
-        name: '',
-        link: '',
-        description: ''
+        name: 'davzie/laravel-bootstrap',
+        link: 'https://github.com/davzie/laravel-bootstrap',
+        description: 'Laravel Demo，Laravel 4.1 PHP 5.4 CMS。'
+    },
+    {
+        name: 'shuber/curl',
+        link: 'https://github.com/shuber/curl',
+        description: '一个基础的 curl 封装。'
+    },
+    {
+        name: 'tobiasahlin/SpinKit',
+        link: 'https://github.com/tobiasahlin/SpinKit',
+        description: 'css 加载动画。'
+    },
+    {
+        name: 'mjaschen/phpgeo',
+        link: 'https://github.com/mjaschen/phpgeo',
+        description: '提供了抽象的地理坐标支持，并可以计算高精度坐标之间的地理距离。'
+    },
+    {
+        name: 'andrewelkins/Laravel-4-Bootstrap-Starter-Site',
+        link: 'https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site',
+        description: 'Laravel Demo，面向初级开发者的 laravel 4 示例应用程序。'
+    },
+    {
+        name: 'brunogaspar/laravel-starter-kit',
+        link: 'https://github.com/brunogaspar/laravel-starter-kit',
+        description: 'Laravel Demo，这是一个 Laravel 4 入门工具包，它会帮助你开始使用 Laravel 4。包括如何使用该框架本身以及如何使用一些软件包。'
+    },
+    {
+        name: 'pda/pheanstalk',
+        link: 'https://github.com/pda/pheanstalk',
+        description: 'beanstalkd 内存队列系统的 PHP 客户端。'
+    },
+    {
+        name: 'zither/slim-chinese-documentation',
+        link: 'https://github.com/zither/slim-chinese-documentation',
+        description: 'Slim 框架中文文档。'
+    },
+    {
+        name: 'julycoding/The-Art-Of-Programming-By-July',
+        link: 'https://github.com/julycoding/The-Art-Of-Programming-By-July',
+        description: '《程序员编程艺术：面试和算法心得》'
+    },
+    {
+        name: 'RubyLouvre/avalon',
+        link: 'https://github.com/RubyLouvre/avalon',
+        description: '迷你简单易用的前端 MVVM 框架。'
+    },
+    {
+        name: 'sofish/typo.css',
+        link: 'https://github.com/sofish/typo.css',
+        description: '中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台。'
+    },
+    {
+        name: 'zensh/jsgen',
+        link: 'https://github.com/zensh/jsgen',
+        description: 'JsGen 是用纯 JavaScript 编写的新一代开源社区网站系统，主要用于搭建 SNS 类型的专业社区，对客户端 AngularJS 应用稍作修改也可变成多用户博客系统、论坛或者 CMS 内容管理系统。jsGen 基于 NodeJS 编写服务器端程序，提供静态文件响应和 REST API 接口服务。基于 AngularJS 编写浏览器端应用，构建交互式网页 UI 视图。基于 MongoDB 编写数据存储系统。'
+    },
+    {
+        name: 'fzaninotto/Faker',
+        link: 'https://github.com/fzaninotto/Faker',
+        description: '测试数据生成插件。'
+    },
+    {
+        name: 'JesseObrien/laravel-cheatsheet',
+        link: 'https://github.com/JesseObrien/laravel-cheatsheet',
+        description: 'Laravel 小抄，知识备忘录。'
     },
     {
         name: '',
