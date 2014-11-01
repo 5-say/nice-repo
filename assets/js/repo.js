@@ -518,7 +518,7 @@ var repoList =
     {
         name: 'ollieread/multiauth',
         link: 'https://github.com/ollieread/multiauth',
-        description: 'Laravel 的多身份验证。你可以同时登录一个用户，一个主帐户和一个管理员，而不会发生冲突！'
+        description: '基于 Laravel Auth 的多表验证。你可以同时登录一个用户，一个主帐户和一个管理员，而不会发生冲突！'
     },
     {
         name: 'sseffa/sf_cms',
