@@ -631,7 +631,7 @@ var repoList =
     {
         name: 'mycolorway/simditor',
         link: 'https://github.com/mycolorway/simditor',
-        description: '团队协作工具 Tower 使用的富文本编辑器。'
+        description: '团队协作工具 Tower 使用的富文本编辑器。支持扩展：emoji表情、markdown、@用户、拖拽上传混排图片。'
     },
     {
         name: 'Khan/KaTeX',
