@@ -9,7 +9,7 @@
     {
         name: '项目名称',
         link: '项目链接',
-        description: '项目简介'
+        description: '项目简介，请尽量使用中文，以方便查找。'
     }
 ```
 
