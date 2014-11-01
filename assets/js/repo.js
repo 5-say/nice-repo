@@ -341,6 +341,101 @@ var repoList =
         description: 'Laravel 小抄，知识备忘录。'
     },
     {
+        name: 'swoole/swoole-src',
+        link: 'https://github.com/swoole/swoole-src',
+        description: '　　PHP语言的高性能网络通信框架，提供了PHP语言的异步多线程服务器，异步TCP/UDP网络客户端，异步MySQL，数据库连接池，AsyncTask，消息队列，毫秒定时器，异步文件读写，异步DNS查询。<br>　　Swoole可以广泛应用于互联网、移动通信、企业软件、网络游戏、物联网、车联网、智能家庭等领域。<br>　　 使用PHP+Swoole作为网络通信框架，可以使企业IT研发团队的效率大大提升，更加专注于开发创新产品。'
+    },
+    {
+        name: 'h5bp/server-configs',
+        link: 'https://github.com/h5bp/server-configs',
+        description: '各种服务器的配置样板。'
+    },
+    {
+        name: 'walu/phpbook',
+        link: 'https://github.com/walu/phpbook',
+        description: '《PHP扩展开发及内核应用》'
+    },
+    {
+        name: 'Studio-42/elFinder',
+        link: 'https://github.com/Studio-42/elFinder',
+        description: 'php 开源文件管理系统。'
+    },
+    {
+        name: 'creolab/laravel-modules',
+        link: 'https://github.com/creolab/laravel-modules',
+        description: 'Laravel 资源包，模块化开发。（hmvc）'
+    },
+    {
+        name: 'tappleby/laravel-auth-token',
+        link: 'https://github.com/tappleby/laravel-auth-token',
+        description: '挂接到 laravel AUTH 模块，并提供身份验证令牌。此令牌只有在安全的 HTTPS 环境中有效。此模块此的主要目的是提供一个身份验证令牌给 JavaScript 的 Web 应用程序，它可以用来识别用户的 API 调用。'
+    },
+    {
+        name: 'Zizaco/entrust',
+        link: 'https://github.com/Zizaco/entrust',
+        description: 'Laravel 的基于角色的权限解决方案。'
+    },
+    {
+        name: 'Crinsane/LaravelShoppingcart',
+        link: 'https://github.com/Crinsane/LaravelShoppingcart',
+        description: 'Laravel4 的一个简单的购物车实现。'
+    },
+    {
+        name: 'yangyifeng/takephoto',
+        link: 'https://github.com/yangyifeng/takephoto',
+        description: '本地/摄像头上传头像（仿微博头像上传功能）。'
+    },
+    {
+        name: 'yoozi/swf-docs-generator',
+        link: 'https://github.com/yoozi/swf-docs-generator',
+        description: '类百度文库 swf 生成和在线浏览完整解决方案：支持 office/pdf/txt/html 等多格式文档上传。'
+    },
+    {
+        name: 'dflydev/dflydev-markdown',
+        link: 'https://github.com/dflydev/dflydev-markdown',
+        description: 'php markdown 解析。'
+    },
+    {
+        name: 'jorry2008/wordpress',
+        link: 'https://github.com/jorry2008/wordpress',
+        description: 'wordpress 源码笔记。'
+    },
+    {
+        name: 'MrJuliuss/syntara',
+        link: 'https://github.com/MrJuliuss/syntara',
+        description: 'Laravel Demo，基于 Sentry 的用户管理系统。'
+    },
+    {
+        name: 'zeroclipboard/zeroclipboard',
+        link: 'https://github.com/zeroclipboard/zeroclipboard',
+        description: 'javascript 插件，将内容复制到剪贴板。'
+    },
+    {
+        name: 'toopay/bootstrap-markdown',
+        link: 'https://github.com/toopay/bootstrap-markdown',
+        description: 'markdown 在线编辑器。'
+    },
+    {
+        name: 'blueimp/jQuery-File-Upload',
+        link: 'https://github.com/blueimp/jQuery-File-Upload',
+        description: 'jquery 文件上传。'
+    },
+    {
+        name: 'barryvdh/laravel-debugbar',
+        link: 'https://github.com/barryvdh/laravel-debugbar',
+        description: 'laravel 调试工具栏。'
+    },
+    {
+        name: 'hotoo/pinyin',
+        link: 'https://github.com/hotoo/pinyin',
+        description: 'javascript 汉字拼音转换工具。'
+    },
+    {
+        name: 'waitingsong/LinkageSel',
+        link: 'https://github.com/waitingsong/LinkageSel',
+        description: 'javascript 无限极城市联动。'
+    },
+    {
         name: '',
         link: '',
         description: ''
