@@ -66,7 +66,7 @@
     <script src="assets/js/repo.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script>
-        new List('repos', {
+        listObj = new List('repos', {
             valueNames: [ 'name', 'description' ],
             item: 'hacker-item',
             plugins: [ ListFuzzySearch() ],
@@ -90,6 +90,8 @@
             .on('keydown', function () {
                 window.location.hash = $(this).val();
             });
+            
+        listObj.fuzzySearch.search(window.location.hash.slice(1));
     </script>
 
 </body>
