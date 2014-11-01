@@ -86,12 +86,12 @@
 
         $('.fuzzy-search')
             .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的开源项目')
-            .focus().val(window.location.hash.slice(1))
+            .focus().val(window.location.hash.slice(1).replace('`', ' '))
             .on('keydown', function () {
-                window.location.hash = $(this).val();
+                window.location.hash = $(this).val().replace(' ', '`');
             });
             
-        listObj.fuzzySearch.search(window.location.hash.slice(1));
+        listObj.fuzzySearch.search(window.location.hash.slice(1).replace('`', ' '));
     </script>
 
 </body>
