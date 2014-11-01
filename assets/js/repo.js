@@ -436,6 +436,96 @@ var repoList =
         description: 'javascript 无限极城市联动。'
     },
     {
+        name: 'hfcorriez/fig-standards',
+        link: 'https://github.com/hfcorriez/fig-standards',
+        description: 'PHP PSR代码标准 中文版。'
+    },
+    {
+        name: 'phpDocumentor/phpDocumentor2',
+        link: 'https://github.com/phpDocumentor/phpDocumentor2',
+        description: 'php api文档 生成工具。'
+    },
+    {
+        name: 'barryvdh/laravel-ide-helper',
+        link: 'https://github.com/barryvdh/laravel-ide-helper',
+        description: 'Laravel IDE Helper，IDE 代码提示辅助。'
+    },
+    {
+        name: 'wulijun/php-the-right-way',
+        link: 'https://github.com/wulijun/php-the-right-way',
+        description: 'php-the-right-way 中文版，收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。<a href="http://wulijun.github.io/php-the-right-way/">中文版阅读地址</a>'
+    },
+    {
+        name: 'nickcernis/html-to-markdown',
+        link: 'https://github.com/nickcernis/html-to-markdown',
+        description: '将 html 转换为 markdown。'
+    },
+    {
+        name: 'wehnhew/laravel4-payments',
+        link: 'https://github.com/wehnhew/laravel4-payments',
+        description: 'Laravel 4 的支付网关。（网银）'
+    },
+    {
+        name: 'raveren/kint',
+        link: 'https://github.com/raveren/kint',
+        description: '强大的 php 输出调试工具。'
+    },
+    {
+        name: 'mewebstudio/captcha',
+        link: 'https://github.com/mewebstudio/captcha',
+        description: 'laravel 4 验证码。'
+    },
+    {
+        name: 'claviska/simple-php-captcha',
+        link: 'https://github.com/claviska/simple-php-captcha',
+        description: 'php 验证码。'
+    },
+    {
+        name: 'uikit/uikit',
+        link: 'https://github.com/uikit/uikit',
+        description: 'UIKit 框架是一个轻量级，模块化的前端框架，用于开发快速，强大的网络接口。'
+    },
+    {
+        name: 'kylestetz/CLNDR',
+        link: 'https://github.com/kylestetz/CLNDR',
+        description: 'jQuery 日历插件。'
+    },
+    {
+        name: 'kriswallsmith/assetic',
+        link: 'https://github.com/kriswallsmith/assetic',
+        description: '静态资源管理。（压缩、合并、解析）'
+    },
+    {
+        name: 'eternicode/bootstrap-datepicker',
+        link: 'https://github.com/eternicode/bootstrap-datepicker',
+        description: 'bootstrap 日期插件。'
+    },
+    {
+        name: 'dangrossman/bootstrap-daterangepicker',
+        link: 'https://github.com/dangrossman/bootstrap-daterangepicker',
+        description: 'bootstrap 日期范围插件。'
+    },
+    {
+        name: 'moment/moment',
+        link: 'https://github.com/moment/moment',
+        description: 'javascript 日期操作基础插件。'
+    },
+    {
+        name: 'guzzle/guzzle',
+        link: 'https://github.com/guzzle/guzzle',
+        description: 'PHP 的 HTTP 客户端，可以方便地发送 HTTP 请求。'
+    },
+    {
+        name: 'ollieread/multiauth',
+        link: 'https://github.com/ollieread/multiauth',
+        description: 'Laravel 的多身份验证。你可以同时登录一个用户，一个主帐户和一个管理员，而不会发生冲突！'
+    },
+    {
+        name: 'sseffa/sf_cms',
+        link: 'https://github.com/sseffa/sf_cms',
+        description: 'Laravel Demo，基于 Laravel 4.2 的 CMS。'
+    },
+    {
         name: '',
         link: '',
         description: ''
