@@ -526,6 +526,31 @@ var repoList =
         description: 'Laravel Demo，基于 Laravel 4.2 的 CMS。'
     },
     {
+        name: 'greggilbert/recaptcha',
+        link: 'https://github.com/greggilbert/recaptcha',
+        description: 'laravel 4 验证码。'
+    },
+    {
+        name: 'creativecouple/jquery-timing',
+        link: 'https://github.com/creativecouple/jquery-timing',
+        description: 'jQuery 定时插件。'
+    },
+    {
+        name: 'peachananr/onepage-scroll',
+        link: 'https://github.com/peachananr/onepage-scroll',
+        description: 'jQuery 单页卷动插件。'
+    },
+    {
+        name: 'laravel/cashier',
+        link: 'https://github.com/laravel/cashier',
+        description: 'laravel 收费订阅插件。'
+    },
+    {
+        name: 'CodeSleeve/asset-pipeline',
+        link: 'https://github.com/CodeSleeve/asset-pipeline',
+        description: '静态资源管理。（压缩、合并、解析）'
+    },
+    {
         name: '',
         link: '',
         description: ''
