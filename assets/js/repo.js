@@ -553,60 +553,60 @@ var repoList =
     {
         name: 'aui/artDialog',
         link: 'https://github.com/aui/artDialog',
-        description: '经典的网页对话框组件'
+        description: '经典的网页对话框组件。'
     },
      {
         name: 'mozilla/pdf.js',
         link: 'https://github.com/mozilla/pdf.js',
-        description: 'PDF Reader in JavaScript'
+        description: 'JavaScript PDF 文档阅读器。'
     }, {
         name: 'julianlloyd/scrollReveal.js',
         link: 'https://github.com/julianlloyd/scrollReveal.js',
-        description: 'Easily reveal elements as they enter the viewport'
+        description: '单页卷动特效，在元素进入或移出视窗时，触发预定义动画（显示/隐藏）。'
     }, {
         name: 'objectivehtml/FlipClock',
         link: 'https://github.com/objectivehtml/FlipClock',
-        description: '漂亮的时间插件'
+        description: '漂亮的时间插件。'
     },
      {
         name: 'nolimits4web/Framework7',
         link: 'https://github.com/nolimits4web/Framework7',
-        description: 'Full Featured HTML Framework For Building iOS7 Apps'
+        description: '创建 iOS7 应用的全栈型 HTML 框架。'
     },
      {
         name: 'PHPMailer/PHPMailer',
         link: 'https://github.com/PHPMailer/PHPMailer',
-        description: 'The classic email sending library for PHP件'
+        description: '经典的 PHP email 邮件发送类库。'
     },
      {
         name: 'BeSite/jQuery.mmenu',
         link: 'https://github.com/BeSite/jQuery.mmenu',
-        description: 'The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp'
+        description: '适用于 website 和 webapp 的侧栏菜单，支持滑动子菜单，菜单搜索，手机上效果极佳。'
     },
      {
         name: 'TobiaszCudnik/phpquery',
         link: 'https://github.com/TobiaszCudnik/phpquery',
-        description: 'php实现jquery功能'
+        description: '让 php 可以像 jquery 一样方便的操作 dom元素，特别适合用于采集程序。'
     },
     {
         name: 'zTree/zTree_v3',
         link: 'https://github.com/zTree/zTree_v3',
-        description: 'jQuery Tree Plugin'
+        description: 'jQuery Tree Plugin，国产树插件。'
     },
     {
         name: 'IanLunn/Hover',
         likn: 'https://github.com/IanLunn/Hover',
-        description: 'A collection of CSS3 powered hover effects to be applied to call to actions, buttons, logos, featured images and so on. '
+        description: 'CSS3 鼠标悬停特效。'
     },
     {
         name: 'moxiecode/plupload',
         link: 'https://github.com/moxiecode/plupload',
-        description: 'Plupload is a JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash'
+        description: 'Plupload 是处理文件上传的一个 JavaScript API，它支持多文件选择，文件类型过滤，分块请求，客户端图像缩放等特性。'
     },
     {
         name: 'ecomfe/echarts',
         link: 'https://github.com/ecomfe/echarts',
-        description: 'Enterprise Charts'
+        description: '基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。'
     },
     {
         name: 'tapmodo/Jcrop',
