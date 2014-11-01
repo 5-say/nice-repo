@@ -12,10 +12,10 @@
 
     <div id="repos">
 
-        <h1>nice-repo</h1>
+        <h1><a href="" style="width: 100; height: 100%; display: block;"></a>nice-repo</h1>
 
         <div style="text-align: center;">
-            <input class="search" placeholder="Search" style="width: 500px;"/>
+            <input class="fuzzy-search" style="width: 500px;"/>
             <br>
             <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
         </div>
@@ -62,12 +62,14 @@
     </div>
 
     <script src="assets/js/list.min.js"></script>
+    <script src="assets/js/list.fuzzysearch.min.js"></script>
     <script src="assets/js/repo.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script>
         new List('repos', {
             valueNames: [ 'name', 'description' ],
             item: 'hacker-item',
+            plugins: [ ListFuzzySearch() ],
             page: 200
         }, repoList);
 
@@ -82,7 +84,7 @@
             return false;
         });
 
-        $('.search')
+        $('.fuzzy-search')
             .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的开源项目')
             .focus().val(window.location.hash.slice(1))
             .on('keydown', function () {
