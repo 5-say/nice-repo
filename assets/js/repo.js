@@ -551,7 +551,7 @@ var repoList =
         description: '静态资源管理。（压缩、合并、解析）'
     },
     {
-        name: 'aui / artDialog',
+        name: 'aui/artDialog',
         link: 'https://github.com/aui/artDialog',
         description: '经典的网页对话框组件'
     },
@@ -580,7 +580,7 @@ var repoList =
     },
      {
         name: 'BeSite/jQuery.mmenu',
-        link: 'https://github.com/BeSite/jQuery.mmenu,
+        link: 'https://github.com/BeSite/jQuery.mmenu',
         description: 'The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp'
     },
      {
