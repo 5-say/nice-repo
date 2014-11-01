@@ -551,8 +551,91 @@ var repoList =
         description: '静态资源管理。（压缩、合并、解析）'
     },
     {
-        name: '',
-        link: '',
-        description: ''
+        name: 'aui / artDialog',
+        link: 'https://github.com/aui/artDialog',
+        description: '经典的网页对话框组件'
+    },
+     {
+        name: 'mozilla/pdf.js',
+        link: 'https://github.com/mozilla/pdf.js',
+        description: 'PDF Reader in JavaScript'
+    }, {
+        name: 'julianlloyd/scrollReveal.js',
+        link: 'https://github.com/julianlloyd/scrollReveal.js',
+        description: 'Easily reveal elements as they enter the viewport'
+    }, {
+        name: 'objectivehtml/FlipClock',
+        link: 'https://github.com/objectivehtml/FlipClock',
+        description: '漂亮的时间插件'
+    },
+     {
+        name: 'nolimits4web/Framework7',
+        link: 'https://github.com/nolimits4web/Framework7',
+        description: 'Full Featured HTML Framework For Building iOS7 Apps'
+    },
+     {
+        name: 'PHPMailer/PHPMailer',
+        link: 'https://github.com/PHPMailer/PHPMailer',
+        description: 'The classic email sending library for PHP件'
+    },
+     {
+        name: 'BeSite/jQuery.mmenu',
+        link: 'https://github.com/BeSite/jQuery.mmenu,
+        description: 'The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp'
+    },
+     {
+        name: 'TobiaszCudnik/phpquery',
+        link: 'https://github.com/TobiaszCudnik/phpquery',
+        description: 'php实现jquery功能'
+    },
+    {
+        name: 'zTree/zTree_v3',
+        link: 'https://github.com/zTree/zTree_v3',
+        description: 'jQuery Tree Plugin'
+    },
+    {
+        name: 'IanLunn/Hover',
+        likn: 'https://github.com/IanLunn/Hover',
+        description: 'A collection of CSS3 powered hover effects to be applied to call to actions, buttons, logos, featured images and so on. '
+    },
+    {
+        name: 'moxiecode/plupload',
+        link: 'https://github.com/moxiecode/plupload',
+        description: 'Plupload is a JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash'
+    },
+    {
+        name: 'ecomfe/echarts',
+        link: 'https://github.com/ecomfe/echarts',
+        description: 'Enterprise Charts'
+    },
+    {
+        name: 'tapmodo/Jcrop',
+        link: 'https://github.com/tapmodo/Jcrop',
+        description: 'Jcrop (official) - Image Cropping Plugin for jQuery'
+    },
+    {
+        name: 'johnny/jquery-sortable',
+        link: 'https://github.com/johnny/jquery-sortable',
+        description: 'A flexible, opinionated sorting plugin for jQuery'
+    },
+    {
+        name: 'PHPOffice/PHPExcel',
+        link: 'https://github.com/PHPOffice/PHPExcel',
+        description: 'A pure PHP library for reading and writing spreadsheet files'
+    },
+    {
+        name: 'codeguy/Upload',
+        link: 'https://github.com/codeguy/Upload',
+        description: 'File uploads with validation and storage strategies'
+    },
+    {
+        name: 'mycolorway/simditor',
+        link: 'https://github.com/mycolorway/simditor',
+        description: '团队协作工具 Tower 使用的富文本编辑器'
+    },
+    {
+        name: 'Khan/KaTeX',
+        link: 'https://github.com/Khan/KaTeX',
+        description: 'Fast math typesetting for the web'
     }
 ];
