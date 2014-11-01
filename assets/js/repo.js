@@ -611,31 +611,31 @@ var repoList =
     {
         name: 'tapmodo/Jcrop',
         link: 'https://github.com/tapmodo/Jcrop',
-        description: 'Jcrop (official) - Image Cropping Plugin for jQuery'
+        description: 'jQuery 插件，快速简便的图片裁剪插件。'
     },
     {
         name: 'johnny/jquery-sortable',
         link: 'https://github.com/johnny/jquery-sortable',
-        description: 'A flexible, opinionated sorting plugin for jQuery'
+        description: 'jQuery 插件，灵活强大的拖拽排序插件，支持树形嵌套排序。'
     },
     {
         name: 'PHPOffice/PHPExcel',
         link: 'https://github.com/PHPOffice/PHPExcel',
-        description: 'A pure PHP library for reading and writing spreadsheet files'
+        description: '读取和写入电子表格文件的纯 PHP 类库。'
     },
     {
         name: 'codeguy/Upload',
         link: 'https://github.com/codeguy/Upload',
-        description: 'File uploads with validation and storage strategies'
+        description: '简化文件的上传以及验证的 PHP 类库。'
     },
     {
         name: 'mycolorway/simditor',
         link: 'https://github.com/mycolorway/simditor',
-        description: '团队协作工具 Tower 使用的富文本编辑器'
+        description: '团队协作工具 Tower 使用的富文本编辑器。'
     },
     {
         name: 'Khan/KaTeX',
         link: 'https://github.com/Khan/KaTeX',
-        description: 'Fast math typesetting for the web'
+        description: 'javascript 插件，快速的网页数学公式排版。'
     }
 ];
