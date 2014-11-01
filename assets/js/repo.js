@@ -184,5 +184,100 @@ var repoList =
         name: 'Maatwebsite/Laravel-Excel',
         link: 'https://github.com/Maatwebsite/Laravel-Excel',
         description: 'Laravel 资源包，读取和写入电子表格文件。基于 <a href="https://github.com/PHPOffice/PHPExcel">PHPOffice/PHPExcel</a>。'
+    },
+    {
+        name: 'fitztrev/laravel-html-minify',
+        link: 'https://github.com/fitztrev/laravel-html-minify',
+        description: 'Laravel 资源包，压缩 HTML 减小输出体积。'
+    },
+    {
+        name: 'michelf/php-markdown',
+        link: 'https://github.com/michelf/php-markdown',
+        description: 'Markdown 解析，提供了额外的语法支持。'
+    },
+    {
+        name: 'schickling/laravel-backup',
+        link: 'https://github.com/schickling/laravel-backup',
+        description: 'Laravel 资源包，数据库备份与恢复，支持亚马逊网络服务AWS旗下的S3存储服务。'
+    },
+    {
+        name: 'symfony/Yaml',
+        link: 'https://github.com/symfony/Yaml',
+        description: 'symfony 组件，YAML 解析。YAML 是针对所有的编程语言的，人类友好的数据序列化标准。<a href="http://www.yaml.org/">www.yaml.org</a>'
+    },
+    {
+        name: 'barryvdh/laravel-vendor-cleanup',
+        link: 'https://github.com/barryvdh/laravel-vendor-cleanup',
+        description: 'Laravel 专用 vendor 目录清理程序。'
+    },
+    {
+        name: '5-say/VendorCleaner',
+        link: 'https://github.com/5-say/VendorCleaner',
+        description: '通用 vendor 目录清理程序。'
+    },
+    {
+        name: 'Intervention/image',
+        link: 'https://github.com/Intervention/image',
+        description: 'PHP 图像处理。'
+    },
+    {
+        name: 'cartalyst/sentry',
+        link: 'https://github.com/cartalyst/sentry',
+        description: '哨兵，框架无关的认证和授权系统。'
+    },
+    {
+        name: 'JeffreyWay/Laravel-4-Generators',
+        link: 'https://github.com/JeffreyWay/Laravel-4-Generators',
+        description: 'Laravel 资源包，代码生成器，加速工作流。'
+    },
+    {
+        name: 'laravelbook/ardent',
+        link: 'https://github.com/laravelbook/ardent',
+        description: '基于 Laravel 4\'s Eloquent O/RM 的，自我验证的智能安全模型。'
+    },
+    {
+        name: 'aws/aws-sdk-php-laravel',
+        link: 'https://github.com/aws/aws-sdk-php-laravel',
+        description: 'Laravel 资源包，AWS SDK。基于 <a href="https://github.com/aws/aws-sdk-php">aws/aws-sdk-php</a>。'
+    },
+    {
+        name: 'Zizaco/confide',
+        link: 'https://github.com/Zizaco/confide',
+        description: 'Laravel 的身份验证解决方案。'
+    },
+    {
+        name: 'Zizaco/confide-mongo',
+        link: 'https://github.com/Zizaco/confide-mongo',
+        description: 'Laravel 的身份验证解决方案。MongoDB 版本。'
+    },
+    {
+        name: 'leroy-merlin-br/mongolid-laravel',
+        link: 'https://github.com/leroy-merlin-br/mongolid-laravel',
+        description: 'Laravel 资源包，方便、强大、快速的 MongoDB ODM。'
+    },
+    {
+        name: 'scalia/sphinxsearch',
+        link: 'https://github.com/scalia/sphinxsearch',
+        description: 'Laravel 资源包，Sphinx Search。（斯芬克斯全文搜索引擎）'
+    },
+    {
+        name: 'bllim/laravel4-datatables-package',
+        link: 'https://github.com/bllim/laravel4-datatables-package',
+        description: 'Laravel 资源包，数据表格插件。基于 <a href="https://github.com/DataTables/DataTables">jQuery 的 DataTables 插件</a>。'
+    },
+    {
+        name: 'DataTables/DataTables',
+        link: 'https://github.com/DataTables/DataTables',
+        description: 'jQuery 数据表格插件。'
+    },
+    {
+        name: '',
+        link: '',
+        description: ''
+    },
+    {
+        name: '',
+        link: '',
+        description: ''
     }
 ];
