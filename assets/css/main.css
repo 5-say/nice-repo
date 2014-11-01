@@ -105,6 +105,9 @@ table {
 table:hover {
     border: 1px solid #28a8e0;
 }
+table#nice-repo:hover {
+    border: 1px solid #636363;
+}
 a {
     color: green;
     text-decoration: none;

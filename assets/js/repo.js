@@ -1,11 +1,6 @@
 var repoList =
 [
     {
-        name: '5-say/nice-repo',
-        link: 'https://github.com/5-say/nice-repo',
-        description: '搜集优秀的开源项目，提供便捷快速的搜索功能，让开源更美好。'
-    },
-    {
         name: 'greatfire/wiki',
         link: 'https://github.com/greatfire/wiki',
         description: '自由微博 和 GreatFire.org。'
@@ -178,7 +173,7 @@ var repoList =
     {
         name: 'LiXunGuan/qiniu',
         link: 'https://github.com/LiXunGuan/qiniu',
-        description: 'Laravel 资源包，七牛云存储 sdk。<a target="_bland" href="https://github.com/qiniu/php-sdk">原始 sdk</a>。'
+        description: 'Laravel 资源包，七牛云存储 sdk。<a href="https://github.com/qiniu/php-sdk">原始 sdk</a>。'
     },
     {
         name: 'huanghua581/laravel-wechat-sdk',
@@ -188,6 +183,6 @@ var repoList =
     {
         name: 'Maatwebsite/Laravel-Excel',
         link: 'https://github.com/Maatwebsite/Laravel-Excel',
-        description: 'Laravel 资源包，读取和写入电子表格文件。基于 <a target="_bland" href="https://github.com/PHPOffice/PHPExcel">PHPOffice/PHPExcel</a>。'
+        description: 'Laravel 资源包，读取和写入电子表格文件。基于 <a href="https://github.com/PHPOffice/PHPExcel">PHPOffice/PHPExcel</a>。'
     }
 ];

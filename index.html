@@ -21,6 +21,29 @@
         </div>
     
         <div class="list">
+            <table id="nice-repo" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+                <tr>
+                    <td width="5" style="background: #636363;">&nbsp;</td>
+                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                        <p style="color: #333;">
+                            您可以按照下面的格式编辑
+                            <a href="https://github.com/5-say/nice-repo/blob/gh-pages/assets/js/repo.js">repo.js</a>
+                            文件，对本项目进行补充。
+                        </p>
+                        <pre>
+{
+    name: '项目名称',
+    link: '项目链接',
+    description: '项目简介'
+}
+                        </pre>
+                    </td>
+                    <td class="link-btn" width="50" style="background: #636363; color: #fff; text-align: center; cursor: pointer;">
+                        GO
+                        <span class="link" style="display: none;">https://github.com/5-say/nice-repo</span>
+                    </td>
+                </tr>
+            </table>
             <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
                 <tr>
                     <td width="5" style="background: #5EC9F8;">&nbsp;</td>
@@ -50,9 +73,16 @@
 
         $('.link-btn').on('click', function () {
             var link = $(this).find('.link').html();
-            console.log(link);
             window.open(link);
         });
+
+        $('.list').on('click', 'a', function () {
+            var link = $(this).attr('href');
+            window.open(link);
+            return false;
+        });
+
+        $('.search').attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的开源项目');
     </script>
 
 </body>
