@@ -71,7 +71,7 @@
             item: 'hacker-item',
             plugins: [ ListFuzzySearch() ],
             page: 200
-        }, repoList);
+        }, repoList.reverse());
 
         $('.link-btn').on('click', function () {
             var link = $(this).find('.link').html();
