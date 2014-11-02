@@ -637,5 +637,35 @@ var repoList =
         name: 'Khan/KaTeX',
         link: 'https://github.com/Khan/KaTeX',
         description: 'javascript 插件，快速的网页数学公式排版。'
+    },
+    {
+        name: 'webpop/jquery.pin',
+        link: 'https://github.com/webpop/jquery.pin',
+        description: '固定页面元素的 jQuery 插件<br>jQuery.Pin 能将任意页面元素“钉”在某个容器顶部，而且在尺寸小的屏幕上能够自动禁用这种效果。'
+    },
+    {
+        name: 'bigspotteddog/ScrollToFixed',
+        link: 'https://github.com/bigspotteddog/ScrollToFixed',
+        description: '这个 jQuery 插件用来固定页面上的元素（顶部，底部，在任何地方）;然而，它仍然允许元素继续向左或向右移动与水平滚动。'
+    },
+    {
+        name: 'lojjic/PIE',
+        link: 'https://github.com/lojjic/PIE',
+        description: 'IE 渐进增强，PIE 使 IE6-9 能够呈现几个最有用的 CSS3 特性。'
+    },
+    {
+        name: 'Diokuz/baron',
+        link: 'https://github.com/Diokuz/baron',
+        description: '自定义滚动条。'
+    },
+    {
+        name: 'cjsaylor/Scrolltab',
+        link: 'https://github.com/cjsaylor/Scrolltab',
+        description: 'Scrolltab 是一个 jQuery 插件，增加了视觉上相关联的，位置相对于滚动条的选项卡。（适合作为文章的阅读辅助）'
+    },
+    {
+        name: 'nolimits4web/Swiper',
+        link: 'https://github.com/nolimits4web/Swiper',
+        description: '出色的 html 滑动效果库，非常适合移动应用开发。'
     }
 ];
