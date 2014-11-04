@@ -313,7 +313,7 @@ var repoList =
     {
         name: 'julycoding/The-Art-Of-Programming-By-July',
         link: 'https://github.com/julycoding/The-Art-Of-Programming-By-July',
-        description: '《程序员编程艺术：面试和算法心得》'
+        description: 'book:《程序员编程艺术：面试和算法心得》'
     },
     {
         name: 'RubyLouvre/avalon',
@@ -328,7 +328,7 @@ var repoList =
     {
         name: 'zensh/jsgen',
         link: 'https://github.com/zensh/jsgen',
-        description: 'JsGen 是用纯 JavaScript 编写的新一代开源社区网站系统，主要用于搭建 SNS 类型的专业社区，对客户端 AngularJS 应用稍作修改也可变成多用户博客系统、论坛或者 CMS 内容管理系统。jsGen 基于 NodeJS 编写服务器端程序，提供静态文件响应和 REST API 接口服务。基于 AngularJS 编写浏览器端应用，构建交互式网页 UI 视图。基于 MongoDB 编写数据存储系统。'
+        description: 'JsGen 是用纯 JavaScript 编写的新一代开源社区网站系统，主要用于搭建 SNS 类型的专业社区，对客户端 AngularJS 应用稍作修改也可变成多用户博客系统、论坛或者 CMS 内容管理系统。<br>jsGen 基于 NodeJS 编写服务器端程序，提供静态文件响应和 REST API 接口服务。基于 AngularJS 编写浏览器端应用，构建交互式网页 UI 视图。基于 MongoDB 编写数据存储系统。'
     },
     {
         name: 'fzaninotto/Faker',
@@ -343,7 +343,7 @@ var repoList =
     {
         name: 'swoole/swoole-src',
         link: 'https://github.com/swoole/swoole-src',
-        description: '　　PHP语言的高性能网络通信框架，提供了PHP语言的异步多线程服务器，异步TCP/UDP网络客户端，异步MySQL，数据库连接池，AsyncTask，消息队列，毫秒定时器，异步文件读写，异步DNS查询。<br>　　Swoole可以广泛应用于互联网、移动通信、企业软件、网络游戏、物联网、车联网、智能家庭等领域。<br>　　 使用PHP+Swoole作为网络通信框架，可以使企业IT研发团队的效率大大提升，更加专注于开发创新产品。'
+        description: 'PHP语言的高性能网络通信框架，提供了PHP语言的异步多线程服务器，异步TCP/UDP网络客户端，异步MySQL，数据库连接池，AsyncTask，消息队列，毫秒定时器，异步文件读写，异步DNS查询。<br>Swoole可以广泛应用于互联网、移动通信、企业软件、网络游戏、物联网、车联网、智能家庭等领域。<br>使用PHP+Swoole作为网络通信框架，可以使企业IT研发团队的效率大大提升，更加专注于开发创新产品。'
     },
     {
         name: 'h5bp/server-configs',
@@ -353,7 +353,7 @@ var repoList =
     {
         name: 'walu/phpbook',
         link: 'https://github.com/walu/phpbook',
-        description: '《PHP扩展开发及内核应用》'
+        description: 'book:《PHP扩展开发及内核应用》'
     },
     {
         name: 'Studio-42/elFinder',
@@ -672,5 +672,10 @@ var repoList =
         name: 'mikemand/logviewer',
         link: 'https://github.com/mikemand/logviewer',
         description: 'laravel log 辅助，通过浏览器轻松的查看和删除 Laravel4 的日志。'
+    },
+    {
+        name: 'bugsnag/bugsnag-laravel',
+        link: 'https://github.com/bugsnag/bugsnag-laravel',
+        description: 'laravel log 辅助，Laracasts 上介绍过的 Bugsnag 针对 laravel 开发的资源包。<br>借助 Bugsnag 平台，你可以非常方便高效的完成日志分析、异常处理。<br>Bugsnag 是一个非常棒的错误报告平台，它可以智能的将异常分组，具体的告诉你，有多少用户当前正在被一个特定的问题影响。<br><a href="https://laracasts.com/lessons/better-error-tracking-with-bugsnag">这里是视频介绍</a>'
     }
 ];
