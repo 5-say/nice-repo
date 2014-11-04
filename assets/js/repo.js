@@ -667,5 +667,10 @@ var repoList =
         name: 'nolimits4web/Swiper',
         link: 'https://github.com/nolimits4web/Swiper',
         description: '出色的 html 滑动效果库，非常适合移动应用开发。'
+    },
+    {
+        name: 'mikemand/logviewer',
+        link: 'https://github.com/mikemand/logviewer',
+        description: 'laravel log 辅助，通过浏览器轻松的查看和删除 Laravel4 的日志。'
     }
 ];
