@@ -8,7 +8,7 @@ var repoList =
     {
         name: 'apidoc/apidoc',
         link: 'https://github.com/apidoc/apidoc',
-        description: '自动生成api接口文档，做app接口非常方便团队配合（官网http://www.apidocjs.com/）'
+        description: '自动生成api接口文档，做app接口非常方便团队配合<a href="http://www.apidocjs.com/">（官网）</a>'
     },
     {
         name: 'greatfire/wiki',
