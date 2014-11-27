@@ -1,6 +1,16 @@
 var repoList =
 [
     {
+        name: 't4t5/sweetalert',
+        link: 'https://github.com/t4t5/sweetalert',
+        description: 'js弹框插件，方便的配合后端返回数据进行操作，ajax配合好用'
+    },
+    {
+        name: 'apidoc/apidoc',
+        link: 'https://github.com/apidoc/apidoc',
+        description: '自动生成api接口文档，做app接口非常方便团队配合（官网http://www.apidocjs.com/）'
+    },
+    {
         name: 'greatfire/wiki',
         link: 'https://github.com/greatfire/wiki',
         description: '自由微博 和 GreatFire.org。'
