@@ -1,9 +1,14 @@
 var repoList =
 [
     {
+        name: 'ccampbell/mousetrap',
+        link: 'https://github.com/ccampbell/mousetrap',
+        description: 'js插件，帮助你快速直观的定义键盘快捷键。'
+    },
+    {
         name: 't4t5/sweetalert',
         link: 'https://github.com/t4t5/sweetalert',
-        description: 'js弹框插件，方便的配合后端返回数据进行操作，ajax配合好用'
+        description: 'js弹框插件，方便的配合后端返回数据进行操作，ajax配合好用。'
     },
     {
         name: 'apidoc/apidoc',
