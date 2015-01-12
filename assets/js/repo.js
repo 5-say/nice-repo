@@ -123,7 +123,7 @@ var repoList =
     {
         name: 'fabien-d/alertify.js',
         link: 'https://github.com/fabien-d/alertify.js',
-        description: 'js 插件，JavaScript 警告/通知 系统。'
+        description: 'js 插件，JavaScript 警告/通知 系统。弹窗，消息。'
     },
     {
         name: 'zxlie/WeixinApi',
@@ -568,7 +568,7 @@ var repoList =
     {
         name: 'aui/artDialog',
         link: 'https://github.com/aui/artDialog',
-        description: '经典的网页对话框组件。'
+        description: '经典的网页对话框组件。弹窗，消息。'
     },
      {
         name: 'mozilla/pdf.js',
