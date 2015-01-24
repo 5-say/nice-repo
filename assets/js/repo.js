@@ -692,5 +692,10 @@ var repoList =
         name: 'bugsnag/bugsnag-laravel',
         link: 'https://github.com/bugsnag/bugsnag-laravel',
         description: 'laravel log 辅助，Laracasts 上介绍过的 Bugsnag 针对 laravel 开发的资源包。<br>借助 Bugsnag 平台，你可以非常方便高效的完成日志分析、异常处理。<br>Bugsnag 是一个非常棒的错误报告平台，它可以智能的将异常分组，具体的告诉你，有多少用户当前正在被一个特定的问题影响。<br><a href="https://laracasts.com/lessons/better-error-tracking-with-bugsnag">这里是视频介绍</a>'
+    },
+    {
+        name: 'FrozenNode/Laravel-Administrator',
+        link: 'https://github.com/FrozenNode/Laravel-Administrator',
+        description: '基于Laravel的后台管理系统，'
     }
 ];
