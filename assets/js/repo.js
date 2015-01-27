@@ -697,5 +697,10 @@ var repoList =
         name: 'FrozenNode/Laravel-Administrator',
         link: 'https://github.com/FrozenNode/Laravel-Administrator',
         description: '基于Laravel的后台管理系统，'
+    },
+    {
+        name: 'twostairs/paperwork',
+        link: 'https://github.com/twostairs/paperwork',
+        description: 'Paperwork 是一个开源网络云笔记系统，是 Evernote、Microsoft OneNote 和 Google Keep 的开源替代品。<br/>Paperwork 采用 PHP 开发，使用 Laravel 4 框架，提供一个很流行的 Web UI，基于 AngularJS 和 Bootstrap 3 构建，提供开放 API 用于第三方集成。后端基于 MySQL 数据库，'
     }
 ];
